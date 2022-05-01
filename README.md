@@ -25,17 +25,17 @@ Se uso NestJS para la solucion.
 No olvidar de crear el archivo .env para que se puedan leer los variables de entorno necesarias para la aplicacion.
 
 EJEMPLO:
-DATABASE_NAME=my_db
-DATABASE_PORT=1000
-API_KEY='ZPAGOAL77'
-PORT=3000
-JWT_SECRET='asdfasdfdf8463'
-
-POSTGRES_DB=my_db
-POSTGRES_USER=root
-POSTGRES_PASSWORD=123456
-POSTGRES_PORT=5433
-POSTGRES_HOST=localhost
+DATABASE_NAME=my_db\n
+DATABASE_PORT=1000\n
+API_KEY='ZPAGOAL77'\n
+PORT=3000\n
+JWT_SECRET='asdfasdfdf8463'\n
+\n\n
+POSTGRES_DB=my_db\n
+POSTGRES_USER=root\n
+POSTGRES_PASSWORD=123456\n
+POSTGRES_PORT=5433\n
+POSTGRES_HOST=localhost\n
 
 
 
